@@ -27,5 +27,9 @@ exports.WebtablePage = class WebtablePage {
         await this.department_textbox.fill(department);
         await this.login_button.click();
     }
+    async search_user(firstname) {
+        await this.page.getByRole('textbox', { name: 'Type to search' }).click();
+        await this.page.getByRole('textbox', { name: 'Type to search' }).fill(firstname);
+    }
 
 }
