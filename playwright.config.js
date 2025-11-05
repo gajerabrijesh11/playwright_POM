@@ -29,6 +29,15 @@ export default defineConfig({
     /* Base URL to use in actions like `await page.goto('')`. */
     // baseURL: 'http://localhost:3000',
 
+    /* Maximum time each action such as `click()` can take. Defaults to 0 (no limit). */
+    actionTimeout: 60000,
+    
+    /* Maximum time each test can run for. */
+    timeout: 60000,
+
+    /* Maximum time to wait for the element to be stable */
+    navigationTimeout: 60000,
+
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
   },
