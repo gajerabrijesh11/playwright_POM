@@ -1,0 +1,556 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to content (Press Enter)" [ref=e3]:
+      - /url: "#acc-content"
+    - banner [ref=e6]:
+      - link "8therate" [ref=e8]:
+        - /url: https://www.8therate.com/
+        - img "8therate" [ref=e9]
+      - generic [ref=e10]:
+        - generic:  
+        - navigation [ref=e11]:
+          - list [ref=e13]:
+            - listitem [ref=e14]:
+              - link "About Us" [ref=e15] [cursor=pointer]:
+                - /url: https://www.8therate.com/about-us/
+            - listitem [ref=e16]:
+              - link "What We Do " [ref=e17] [cursor=pointer]:
+                - /url: "#"
+                - text: What We Do
+                - generic [ref=e18]: 
+            - listitem [ref=e19]:
+              - link "Themes " [ref=e20] [cursor=pointer]:
+                - /url: https://www.8therate.com/wordpress-themes/
+                - text: Themes
+                - generic [ref=e21]: 
+            - listitem [ref=e22]:
+              - link "Blog" [ref=e23] [cursor=pointer]:
+                - /url: https://www.8therate.com/blog/
+        - link "Request Quote" [ref=e25]:
+          - /url: https://www.8therate.com/request-for-proposal/?utm_content=Header
+    - main [ref=e28]:
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - img [ref=e34]
+          - generic [ref=e36]:
+            - generic [ref=e38]:
+              - heading "Custom Web Application Development Services" [level=1] [ref=e41]
+              - paragraph [ref=e44]: We have technology experts who have mastered everything from documentation to custom mobile app development & custom web design and development to deployment. Be it a website, mobile app or software, we bet, you will not get a better solution from anywhere else!
+              - button "Let's Discuss Your Idea!" [ref=e48]:
+                - generic [ref=e50]: Let's Discuss Your Idea!
+            - img "Custom-Web-Design-and-Development-Services" [ref=e55]
+        - generic [ref=e57]:
+          - generic [ref=e62]:
+            - generic [ref=e63]:
+              - generic [ref=e65]: "0"
+              - generic [ref=e66]: +
+            - generic [ref=e67]: Completed Projects
+          - generic [ref=e72]:
+            - generic [ref=e73]:
+              - generic [ref=e75]: "1"
+              - generic [ref=e76]: +
+            - generic [ref=e77]: Years of Experience
+          - generic [ref=e82]:
+            - generic [ref=e83]:
+              - generic [ref=e85]: "1"
+              - generic [ref=e86]: +
+            - generic [ref=e87]: Countries Served
+          - generic [ref=e92]:
+            - generic [ref=e93]:
+              - generic [ref=e95]: "1"
+              - generic [ref=e96]: "%"
+            - generic [ref=e97]: Repeat Clients
+        - generic [ref=e98]:
+          - img [ref=e100]
+          - generic [ref=e102]:
+            - generic [ref=e104]:
+              - heading "Work with the Best!" [level=2] [ref=e107]
+              - generic [ref=e109]:
+                - paragraph [ref=e110]: 8therate is a mobile app and web application development company having years of experience in custom web application development services, mobile app development and custom software development services.
+                - paragraph [ref=e111]: Whether you are a start-up or an established business, our expert team will deliver unbeatable software development, web design, mobile app development and site development services to you. We are tech enthusiasts and love to keep ourselves updated with global technology and market trends to provide our clients the feature rich world-class solutions.
+              - button "Drop us a Line!" [ref=e115]:
+                - generic [ref=e117]: Drop us a Line!
+            - img "web-development-process" [ref=e122]
+        - generic [ref=e123]:
+          - img [ref=e125]
+          - generic [ref=e129]:
+            - generic [ref=e135]:
+              - heading "Services we offer" [level=2] [ref=e138]
+              - paragraph [ref=e141]: Your business has its unique strengths and that should also be reflected in your online presence. Our team of experts will give you solutions that are best for your business and mirror your vision.
+            - generic [ref=e145]:
+              - generic [ref=e150]:
+                - link [ref=e152]:
+                  - /url: https://www.8therate.com/services/custom-web-development-company/
+                  - img [ref=e153]
+                - generic [ref=e170]:
+                  - heading "Custom Web Development" [level=3] [ref=e171]:
+                    - link "Custom Web Development" [ref=e172]:
+                      - /url: https://www.8therate.com/services/custom-web-development-company/
+                  - paragraph [ref=e173]: Whether you are looking for a simple CMS based website, progressive web app or complete custom web development service, our expert minds can develop the best solution for your niche in a timely manner.
+              - generic [ref=e178]:
+                - link [ref=e180]:
+                  - /url: https://www.8therate.com/services/custom-web-design/
+                  - img [ref=e181]
+                - generic [ref=e189]:
+                  - heading "Custom Web Design" [level=3] [ref=e190]:
+                    - link "Custom Web Design" [ref=e191]:
+                      - /url: https://www.8therate.com/services/custom-web-design/
+                  - paragraph [ref=e192]: Design is the core part of your brand identity. We are the best responsive web development company and have the ability to create user-friendly and SEO friendly web design that gives your brand better recognition and that too in your budget!
+              - generic [ref=e197]:
+                - link [ref=e199]:
+                  - /url: /services/mobile-app-development/
+                  - img [ref=e200]
+                - generic [ref=e211]:
+                  - heading "Mobile App Development" [level=3] [ref=e212]:
+                    - link "Mobile App Development" [ref=e213]:
+                      - /url: /services/mobile-app-development/
+                  - paragraph [ref=e214]: In the mobile-first world, a mobile app is the best alternative to engage your customers. Be it native mobile app development or hybrid mobile app development services, we can create a user-centric mobile app that replicates your business.
+            - generic [ref=e216]:
+              - generic [ref=e221]:
+                - link [ref=e223]:
+                  - /url: https://www.8therate.com/services/custom-website-clones/
+                  - img [ref=e224]
+                - generic [ref=e239]:
+                  - heading "App and Website Clone Scripts" [level=3] [ref=e240]:
+                    - link "App and Website Clone Scripts" [ref=e241]:
+                      - /url: https://www.8therate.com/services/custom-website-clones/
+                  - paragraph [ref=e242]: Kickstart your online business by incorporating the business model of successful websites or apps. Our creative team has the expertise in developing app and website clone scripts with eye catchy designs and future ready solutions to give you an added advantage against the competition.
+              - generic [ref=e247]:
+                - img [ref=e250]
+                - generic [ref=e263]:
+                  - heading "Website Consulting Service" [level=3] [ref=e264]
+                  - paragraph [ref=e265]: You are rescuing a failed project or creating a new website or app, our inhouse conversion optimization and SEO experts can help you optimize website/app design, website/app flow, on-page SEO and content to increase quality traffic, conversion and ROI like never before.
+              - generic [ref=e270]:
+                - img [ref=e273]
+                - generic [ref=e276]:
+                  - heading "Search Engine Optimization" [level=3] [ref=e277]
+                  - paragraph [ref=e278]: Your active and remarkable online presence is key to acquiring potential customers. Whether you are targeting a local market or the entire world, our SEO experts will make sure to give your brand the unavoidable online visibility.
+            - generic [ref=e280]:
+              - generic [ref=e285]:
+                - img [ref=e288]
+                - generic [ref=e302]:
+                  - heading "Content Writing Service" [level=3] [ref=e303]
+                  - paragraph [ref=e304]: Be it website content, app content or guest post, you need to have SEO friendly content that should easily be understood by your audience. Our expert content writers can create unique, easy to read and SEO optimized content that can rank higher in Google easily.
+              - generic [ref=e309]:
+                - img [ref=e312]
+                - generic [ref=e376]:
+                  - heading "Software Development" [level=3] [ref=e377]
+                  - paragraph [ref=e378]: Be it retail software that aggregates everything from POS to analyze the data or software that organizes patient data, let’s connect with us and get your highly optimized software from the leading software and web application development company.
+              - generic [ref=e383]:
+                - img [ref=e386]
+                - generic [ref=e398]:
+                  - heading "Domain and Hosting" [level=3] [ref=e399]
+                  - paragraph [ref=e400]: Don’t have an idea of the server that suits the best to your website? We are here to provide you the best web hosting service. We will also get the best domain for your business and will host your website on the server that gives a seamless experience to your users.
+        - generic [ref=e401]:
+          - img [ref=e403]
+          - img [ref=e406]
+          - generic [ref=e412]:
+            - heading "Looking for one of the best free responsive WordPress themes for your blogging website? You just landed in the right place." [level=2] [ref=e415]
+            - button "See Simplus Blog Demo" [ref=e423]:
+              - generic [ref=e425]: See Simplus Blog Demo
+        - generic [ref=e431]:
+          - heading "Industries" [level=2] [ref=e434]
+          - paragraph [ref=e437]: With having years of expertise in software, mobile app, website design and web development services, we have either developed software, mobile app or have done custom web design and development for almost every industry in the market. Let’s get connected and become an industry leader by giving life to your vision.
+          - generic [ref=e440]:
+            - tablist [ref=e441]:
+              - tab "Fintech" [expanded] [selected] [ref=e442] [cursor=pointer]:
+                - img "Fintech" [ref=e444]
+              - tab "On-demand" [ref=e445] [cursor=pointer]:
+                - img "On-demand" [ref=e447]
+              - tab "Travel-and-Hospitality" [ref=e448] [cursor=pointer]:
+                - img "Travel-and-Hospitality" [ref=e450]
+              - tab "Education-and-Technology" [ref=e451] [cursor=pointer]:
+                - img "Education-and-Technology" [ref=e453]
+              - tab "Social-Networking-and-Social-Media" [ref=e454] [cursor=pointer]:
+                - img "Social-Networking-and-Social-Media" [ref=e456]
+              - tab "Dating-and-Matchmaking" [ref=e457] [cursor=pointer]:
+                - img "Dating-and-Matchmaking" [ref=e459]
+              - tab "Food-and-Restaurant" [ref=e460] [cursor=pointer]:
+                - img "Food-and-Restaurant" [ref=e462]
+              - tab "Marketplaces" [ref=e463] [cursor=pointer]:
+                - img "Marketplaces" [ref=e465]
+              - tab "Entertainment" [ref=e466] [cursor=pointer]:
+                - img "Entertainment" [ref=e468]
+              - tab "Real-Estate" [ref=e469] [cursor=pointer]:
+                - img "Real-Estate" [ref=e471]
+            - tablist [ref=e472]:
+              - tabpanel "Fintech" [ref=e473]:
+                - generic [ref=e474]:
+                  - img "Fintech" [ref=e477]
+                  - generic [ref=e478]:
+                    - heading "Fintech" [level=3] [ref=e479]
+                    - paragraph [ref=e480]: Let’s automate your financial services with the best technology available in the market and give a boost to your online business by opting for any of our mobile app or custom web application development services.
+                    - list [ref=e481]:
+                      - listitem [ref=e482]: App Development for Finance Start-up
+                      - listitem [ref=e483]: Bill Payment App Development
+                      - listitem [ref=e484]: Budget Tracking App Development
+                      - listitem [ref=e485]: Apps Development for Insurance Agencies
+                      - listitem [ref=e486]: Crowdfunding Script Development
+                      - listitem [ref=e487]: Reward Based Crowdfunding Website Development
+        - generic [ref=e488]:
+          - img [ref=e490]
+          - generic [ref=e494]:
+            - heading "You are in Safe Hands" [level=2] [ref=e497]
+            - generic [ref=e499]:
+              - generic [ref=e501]:
+                - generic [ref=e504]:
+                  - img [ref=e507]
+                  - generic [ref=e510]:
+                    - heading "Highly experienced team with a proven track record" [level=3] [ref=e511]
+                    - paragraph [ref=e512]: We are one of the best mobile app and web development specialists having inhouse passionate marketing experts, customer-friendly Business Development Executives, solution oriented Business Analysts, creative Designers, expert Developers, and not so developer and designer-friendly Quality Analysts (because they need to report as many bugs/updates as possible) to deliver an exceptional and fully functional project in a timely manner.
+                - generic [ref=e515]:
+                  - img [ref=e518]
+                  - generic [ref=e531]:
+                    - heading "Streamlined, Goal Oriented and Quality-Driven Process" [level=3] [ref=e532]
+                    - paragraph [ref=e533]: We are not just the mobile app development agency or responsive websites development company for you but we are an agency that always follows the quality control process throughout the project development cycle. We will be in touch with you regularly to give progress reports and if you want us to move ahead after your approval, no worries, it’s your call!
+                - generic [ref=e536]:
+                  - img [ref=e539]
+                  - generic [ref=e557]:
+                    - heading "Attention to Details" [level=3] [ref=e558]
+                    - paragraph [ref=e559]: ‘Attention to every Detail’ is the key factor that makes us different from other companies and makes us the best web design and development services provider. Be it mobile app development, software development or web application development service, we give attention to every small detail to deliver the desired solution while keeping a close eye on the calendar and your budget.
+              - img "you-are-in-safe-hands" [ref=e564]
+            - generic [ref=e566]:
+              - img "you-are-in-safe-hands" [ref=e571]
+              - generic [ref=e573]:
+                - generic [ref=e576]:
+                  - img [ref=e579]
+                  - generic [ref=e589]:
+                    - heading "Transparency" [level=3] [ref=e590]
+                    - paragraph [ref=e591]: Whether it is a project deadline, project price, project progress report or, any deliverable for your software, mobile app or custom web development services, we will share with you the precise and actual data. There will be no last time surprises (better to say ‘Shock’) at the end moment in terms of project cost or timeline.
+                - generic [ref=e594]:
+                  - img [ref=e597]
+                  - generic [ref=e602]:
+                    - heading "100% Satisfaction Guaranteed" [level=3] [ref=e603]
+                    - paragraph [ref=e604]: We believe in long-term business relationships and with our years of experience as a leading custom web application development services and mobile app development services provider, we know that we can only maintain this, is by providing 100% satisfactory results to our customers. Our simple motto is ‘If you are not satisfied, we are not satisfied’.
+                - generic [ref=e607]:
+                  - img [ref=e610]
+                  - generic [ref=e617]:
+                    - heading "Quality of Code" [level=3] [ref=e618]
+                    - paragraph [ref=e619]: We are not like other website or mobile app development services providers that do not care about the code and just about the design as the code will not be directly visible to you. Backend code is equally important as design for multiple site quality measurement factors and we, as the best mobile app and responsive websites development company, always follow the best coding practice to make sure you get the quality product.
+        - generic [ref=e620]:
+          - img [ref=e622]
+          - generic [ref=e628]:
+            - generic [ref=e630]:
+              - heading "How we Work!" [level=2] [ref=e633]
+              - paragraph [ref=e636]: We love your business as much as you do and we would love to go the extra mile to provide you the best possible solutions. You can either hire our developers and they will directly work with you or you can go with a ‘fixed price waterfall model’ or with agile, where we will assign an entire development team to your project at an affordable price. See, how you can get the perfect solution for your business from the leading mobile app and web application development company.
+            - img "How-we-work" [ref=e641]
+        - generic [ref=e648]:
+          - tablist [ref=e649]:
+            - tab "Fixed Cost Waterfall Model" [expanded] [selected] [ref=e650] [cursor=pointer]
+            - tab "Agile Methodology" [ref=e651] [cursor=pointer]
+          - tablist [ref=e652]:
+            - tabpanel "Fixed Cost Waterfall Model" [ref=e653]:
+              - generic [ref=e654]:
+                - generic [ref=e656]:
+                  - generic [ref=e657]: "1"
+                  - heading "Requirement Discussion" [level=4] [ref=e658]
+                  - generic [ref=e659]: Once we receive the requirement, our business development executive/manager will get in touch with you to know the requirement thoroughly and your vision.
+                - generic [ref=e661]:
+                  - generic [ref=e662]: "2"
+                  - heading "Requirement Analysis" [level=4] [ref=e663]
+                  - generic [ref=e664]: After having a discussion with you, our BDE will discuss the requirement with the in-house business analyst and they will put your idea on the paper, the business analyst will be part of your project for the entire project development life cycle.
+              - generic [ref=e665]:
+                - generic [ref=e667]:
+                  - generic [ref=e668]: "3"
+                  - heading "Scope and Project Finalization" [level=4] [ref=e669]
+                  - generic [ref=e670]: BDE will get in touch with you and will share with you the documents/charts prepared by the Business Analyst. If you would like to update the details in the document, share them with the BDE and get it done. Once you will feel that we understood the business idea, as much as you do, we will go to the next step. During the development phase, if you come across any idea and want us to update the scope, no issues, just share with us and we will update the scope accordingly.
+                - generic [ref=e672]:
+                  - generic [ref=e673]: "4"
+                  - heading "Designing" [level=4] [ref=e674]
+                  - generic [ref=e675]: It is being said that ‘People Eat with Their Eyes First’ so you cannot afford to go wrong with website design. As the best responsive web development company, we will create a design that is eye-catchy and makes an unforgettable impact on your users. You just share with us design reference, design idea or our creative designer/s will create a complete custom design. The project manager will share the designs of each page with you. Want us to update the design? Please share the required updates and get the updated design.
+              - generic [ref=e676]:
+                - generic [ref=e678]:
+                  - generic [ref=e679]: "5"
+                  - heading "Development" [level=4] [ref=e680]
+                  - generic [ref=e681]: Once you confirm the design, our developer/s will start working on the development. You will get Project Plan and it will be updated on regular basis to give you an idea about the progress. The code will be well commented and we will also make sure that you get a lightweight fast loading product.
+                - generic [ref=e683]:
+                  - generic [ref=e684]: "6"
+                  - heading "Testing" [level=4] [ref=e685]
+                  - generic [ref=e686]: Testing of all units will be done by the developer and our Quality Analyst will prepare test cases during the development phase and will test the entire solutions multiple times to make sure you get the fully functional product.
+              - generic [ref=e687]:
+                - generic [ref=e689]:
+                  - generic [ref=e690]: "7"
+                  - heading "Publish/Deploy" [level=4] [ref=e691]
+                  - generic [ref=e692]: The entire development will be done on our development server/local server, once you check the entire development and give the green signal, the solution will be deployed on your server/will be published.
+                - generic [ref=e694]:
+                  - generic [ref=e695]: "8"
+                  - heading "Maintenance" [level=4] [ref=e696]
+                  - generic [ref=e697]: Maintenance is equally important as you are getting live traffic and customer experience should not be hindered in any way. So, we will be providing you the complimentary maintenance period along with our mobile app and custom web development services and if you want, you can extend it at a pocket-friendly cost at any time.
+        - generic [ref=e698]:
+          - img [ref=e700]
+          - generic [ref=e704]:
+            - heading "Your Satisfaction is an Award for Us!" [level=2] [ref=e707]
+            - generic [ref=e710]:
+              - list [ref=e712]:
+                - listitem [ref=e713]:
+                  - generic [ref=e714]:
+                    - generic [ref=e715]:
+                      - generic [ref=e716]: 
+                      - heading [level=4] [ref=e717]: Great Service
+                      - paragraph [ref=e718]: I am not a technical person but they have guided me well. They shared updates regularly and they have even given me walkthrough of my website after their working hours
+                    - generic [ref=e721]:
+                      - heading [level=4] [ref=e722]: Vincent Gbeho
+                      - generic [ref=e723]: CEO and Founder of WalkWithMe
+                - listitem [ref=e724]:
+                  - generic [ref=e725]:
+                    - generic [ref=e726]:
+                      - generic [ref=e727]: 
+                      - heading "Got what I have asked for." [level=4] [ref=e728]
+                      - paragraph [ref=e729]: I was looking for someone that can provide me a quality website for my ecommerce business and as quickly as possible. 8therate has not just created a website but they have published it on my server. I would definitely work with them again.
+                    - generic [ref=e732]:
+                      - heading "John Williamson" [level=4] [ref=e733]
+                      - generic [ref=e734]: Founder of Fabulous Store
+                - listitem [ref=e735]:
+                  - generic [ref=e736]:
+                    - generic [ref=e737]:
+                      - generic [ref=e738]: 
+                      - heading "A great team to work with…" [level=4] [ref=e739]
+                      - paragraph [ref=e740]: Since the first call, I got full support. They have gone above and beyond to deliver my website and app at the time. one of the best teams I have worked with till now!
+                    - generic [ref=e743]:
+                      - heading "Jessica Smith" [level=4] [ref=e744]
+                      - generic [ref=e745]: Owner at BelleHub
+                - listitem [ref=e746]:
+                  - generic [ref=e747]:
+                    - generic [ref=e748]:
+                      - generic [ref=e749]: 
+                      - heading "Great Service" [level=4] [ref=e750]
+                      - paragraph [ref=e751]: I am not a technical person but they have guided me well. They shared updates regularly and they have even given me walkthrough of my website after their working hours
+                    - generic [ref=e754]:
+                      - heading "Vincent Gbeho" [level=4] [ref=e755]
+                      - generic [ref=e756]: CEO and Founder of WalkWithMe
+                - listitem [ref=e757]:
+                  - generic [ref=e758]:
+                    - generic [ref=e759]:
+                      - generic [ref=e760]: 
+                      - heading [level=4] [ref=e761]: Got what I have asked for.
+                      - paragraph [ref=e762]: I was looking for someone that can provide me a quality website for my ecommerce business and as quickly as possible. 8therate has not just created a website but they have published it on my server. I would definitely work with them again.
+                    - generic [ref=e765]:
+                      - heading [level=4] [ref=e766]: John Williamson
+                      - generic [ref=e767]: Founder of Fabulous Store
+              - list:
+                - listitem:
+                  - link "Previous" [ref=e768] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Previous
+                - listitem:
+                  - link "Next" [ref=e769] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Next
+        - generic [ref=e770]:
+          - img [ref=e773]
+          - img [ref=e776]
+          - generic [ref=e780]:
+            - heading "Let’s work together and create an unbeatable online presence!" [level=2] [ref=e783]
+            - generic [ref=e785]:
+              - paragraph [ref=e786]:
+                - generic [ref=e787]: As a prominent mobile app development, web design and web development services provider, we give top priority to customer satisfaction. Be it a mobile app, software development, web design or any of the site development services, our team works very hard starting from understanding your business objectives to delivering a cutting-edge, fully functional and user-friendly solution to make sure you achieve your business goals..
+              - paragraph [ref=e788]: We have expertise in custom software development, custom mobile app development and custom web development services. 8therate is the best web development services company where you’ll get reliable and unique solutions that will help you beat the competition.
+            - button "Let’s discuss your idea!" [ref=e792]:
+              - generic [ref=e794]: Let’s discuss your idea!
+        - generic [ref=e795]:
+          - img [ref=e798]
+          - generic [ref=e802]:
+            - heading "We are Reading" [level=2] [ref=e805]
+            - generic [ref=e809]:
+              - generic [ref=e810]:
+                - generic [ref=e811]:
+                  - generic [ref=e812]:
+                    - generic [ref=e815]: Development
+                    - link [ref=e818]:
+                      - /url: https://www.8therate.com/what-makes-wordpress-the-optimal-selection-for-your-site/
+                  - generic [ref=e819]:
+                    - link [ref=e821]:
+                      - /url: https://www.8therate.com/what-makes-wordpress-the-optimal-selection-for-your-site/
+                      - text: What Makes WordPress the Optimal Selection for Your Site
+                    - generic [ref=e823]:
+                      - img [ref=e824]
+                      - generic [ref=e826]:
+                        - generic [ref=e827]: Posted on
+                        - time [ref=e828]: March 14, 2024
+                    - generic [ref=e829]: Creating a website is a crucial step in establishing a digital presence for any business or individual. Among the plethora of platforms available, WordPress stands out as the premier choice ...
+                - generic [ref=e830]:
+                  - generic [ref=e831]:
+                    - generic [ref=e834]: Business
+                    - link [ref=e837]:
+                      - /url: https://www.8therate.com/creative-ways-to-increase-sales-on-your-wordpress-ecommerce-store/
+                  - generic [ref=e838]:
+                    - link [ref=e840]:
+                      - /url: https://www.8therate.com/creative-ways-to-increase-sales-on-your-wordpress-ecommerce-store/
+                      - text: 10 Creative Ways to Increase Sales on Your WordPress Ecommerce Store
+                    - generic [ref=e842]:
+                      - img [ref=e843]
+                      - generic [ref=e845]:
+                        - generic [ref=e846]: Posted on
+                        - time [ref=e847]: March 11, 2024
+                    - generic [ref=e848]: In the vast landscape of online commerce, having a WordPress ecommerce store is just the first step. To truly thrive and succeed, you need to continuously explore innovative strategies to ...
+                - generic [ref=e849]:
+                  - generic [ref=e850]:
+                    - generic [ref=e853]: Development
+                    - link [ref=e856]:
+                      - /url: https://www.8therate.com/unlocking-the-power-of-custom-wordpress-development-for-your-website/
+                  - generic [ref=e857]:
+                    - link [ref=e859]:
+                      - /url: https://www.8therate.com/unlocking-the-power-of-custom-wordpress-development-for-your-website/
+                      - text: Unlocking the Power of Custom WordPress Development for Your Website
+                    - generic [ref=e861]:
+                      - img [ref=e862]
+                      - generic [ref=e864]:
+                        - generic [ref=e865]: Posted on
+                        - time [ref=e866]: March 3, 2023
+                    - generic [ref=e867]: WordPress is one of the most popular content management systems (CMS) in the world, with more than 40% of all websites on the internet powered by this platform. One of ...
+                - generic [ref=e868]:
+                  - generic [ref=e869]:
+                    - generic [ref=e872]: Business
+                    - link [ref=e875]:
+                      - /url: https://www.8therate.com/wordpress-website-maintenance-checklist/
+                  - generic [ref=e876]:
+                    - link [ref=e878]:
+                      - /url: https://www.8therate.com/wordpress-website-maintenance-checklist/
+                      - text: WordPress Website Maintenance Checklist For 2023
+                    - generic [ref=e880]:
+                      - img [ref=e881]
+                      - generic [ref=e883]:
+                        - generic [ref=e884]: Posted on
+                        - time [ref=e885]: December 27, 2022
+                    - generic [ref=e886]: Hey, are you running a WordPress website or blog? If yes, this guide is for you! We are here with an easy-to-follow eight crucial WordPress maintenance tasks checklist that you ...
+                - generic [ref=e887]:
+                  - generic [ref=e888]:
+                    - generic [ref=e891]: Business
+                    - link [ref=e894]:
+                      - /url: https://www.8therate.com/how-can-custom-wordpress-development-services-increase-your-online-business/
+                  - generic [ref=e895]:
+                    - link [ref=e897]:
+                      - /url: https://www.8therate.com/how-can-custom-wordpress-development-services-increase-your-online-business/
+                      - text: How can custom WordPress development services increase your online business in 2022?
+                    - generic [ref=e899]:
+                      - img [ref=e900]
+                      - generic [ref=e902]:
+                        - generic [ref=e903]: Posted on
+                        - time [ref=e904]: September 2, 2022
+                    - generic [ref=e905]: This is a digital era and people are becoming lazy day by day as they don’t need to go outside of his/her place to avail services or purchase products. So, ...
+                - generic [ref=e906]:
+                  - generic [ref=e907]:
+                    - generic [ref=e910]: Business
+                    - link [ref=e913]:
+                      - /url: https://www.8therate.com/tips-for-a-wordpress-website-security/
+                  - generic [ref=e914]:
+                    - link [ref=e916]:
+                      - /url: https://www.8therate.com/tips-for-a-wordpress-website-security/
+                      - text: 5 Tips for A WordPress Website Security (100% Tried & Tested)
+                    - generic [ref=e918]:
+                      - img [ref=e919]
+                      - generic [ref=e921]:
+                        - generic [ref=e922]: Posted on
+                        - time [ref=e923]: June 7, 2022
+                    - generic [ref=e924]: Whether it’s a small business website or a giant e-commerce website, web security has become crucial nowadays. Especially if your website is built on an open-source framework like WordPress, you ...
+              - generic [ref=e925]:
+                - button "Go to slide 1" [ref=e926] [cursor=pointer]
+                - button "Go to slide 2" [ref=e927] [cursor=pointer]
+                - button "Go to slide 3" [ref=e928] [cursor=pointer]
+                - button "Go to slide 4" [ref=e929] [cursor=pointer]
+              - button "Previous slide" [disabled] [ref=e930] [cursor=pointer]:
+                - generic [ref=e931]: 
+                - generic [ref=e932]: Previous
+              - button "Next slide" [ref=e933] [cursor=pointer]:
+                - generic [ref=e934]: 
+                - generic [ref=e935]: Next
+    - contentinfo [ref=e936]:
+      - generic [ref=e939]:
+        - generic [ref=e941]:
+          - heading "We Offer" [level=2] [ref=e942]
+          - list [ref=e944]:
+            - listitem [ref=e945]:
+              - link "WordPress Themes" [ref=e946]:
+                - /url: https://www.8therate.com/wordpress-themes/
+            - listitem [ref=e947]:
+              - link "Custom Web Development" [ref=e948]:
+                - /url: https://www.8therate.com/services/custom-web-development-company/
+            - listitem [ref=e949]:
+              - link "Custom Web Design" [ref=e950]:
+                - /url: https://www.8therate.com/services/custom-web-design/
+            - listitem [ref=e951]:
+              - link "Custom Website Clones" [ref=e952]:
+                - /url: https://www.8therate.com/services/custom-website-clones/
+            - listitem [ref=e953]:
+              - link "Mobile App Development" [ref=e954]:
+                - /url: https://www.8therate.com/services/mobile-app-development/
+            - listitem [ref=e955]:
+              - link "Laravel Development" [ref=e956]:
+                - /url: https://www.8therate.com/technologies/laravel-development/
+            - listitem [ref=e957]:
+              - link "WordPress Development" [ref=e958]:
+                - /url: https://www.8therate.com/technologies/wordpress-development/
+        - generic [ref=e960]:
+          - heading "Links" [level=2] [ref=e961]
+          - list [ref=e963]:
+            - listitem [ref=e964]:
+              - link "About Us" [ref=e965]:
+                - /url: https://www.8therate.com/about-us/
+            - listitem [ref=e966]:
+              - link "Request Quote" [ref=e967] [cursor=pointer]:
+                - /url: /request-for-proposal/?utm_content=Footer
+            - listitem [ref=e968]:
+              - link "Blog" [ref=e969]:
+                - /url: https://www.8therate.com/blog/
+            - listitem [ref=e970]:
+              - link "Careers" [ref=e971]:
+                - /url: https://www.8therate.com/careers/
+            - listitem [ref=e972]:
+              - link "Contact Us" [ref=e973]:
+                - /url: https://www.8therate.com/contact-us/
+        - generic [ref=e975]:
+          - heading "Connect with Us" [level=2] [ref=e976]
+          - generic [ref=e979]:
+            - generic [ref=e980]:
+              - img [ref=e982]
+              - link "sales@8therate.com" [ref=e984]:
+                - /url: mailto:sales@8therate.com
+            - generic [ref=e985]:
+              - img [ref=e987]
+              - link "+91 99742 41498" [ref=e989]:
+                - /url: tel:+919974241498
+      - generic [ref=e991]:
+        - generic [ref=e993]:
+          - text: © 2025 8therate.com All rights reserved.
+          - generic [ref=e994]:
+            - link "Privacy Policy" [ref=e995]:
+              - /url: /privacy-policy/
+            - link "Terms of Use" [ref=e996]:
+              - /url: /terms-of-use/
+            - link "Sitemap" [ref=e997]:
+              - /url: /sitemap/
+        - list [ref=e998]:
+          - listitem [ref=e999]:
+            - link [ref=e1000]:
+              - /url: https://www.facebook.com/8therateinfotech
+              - img [ref=e1001]
+          - listitem [ref=e1003]:
+            - link [ref=e1004]:
+              - /url: https://twitter.com/eighttherate
+              - img [ref=e1005]
+          - listitem [ref=e1007]:
+            - link [ref=e1008]:
+              - /url: https://www.instagram.com/8therate/
+              - img [ref=e1009]
+          - listitem [ref=e1011]:
+            - link [ref=e1012]:
+              - /url: https://www.youtube.com/channel/UCDqzoAIOMEKpECySDKwR5SA
+              - img [ref=e1013]
+          - listitem [ref=e1015]:
+            - link [ref=e1016]:
+              - /url: https://www.linkedin.com/in/8therate
+              - img [ref=e1017]
+          - listitem [ref=e1019]:
+            - link [ref=e1020]:
+              - /url: https://wa.me/9974241498
+              - img [ref=e1021]
+          - listitem [ref=e1023]:
+            - link [ref=e1024]:
+              - /url: https://in.pinterest.com/8therateinfotech/
+              - img [ref=e1025]
+  - generic [ref=e1027]: desktop
+  - img
+```
