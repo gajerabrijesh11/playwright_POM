@@ -1,0 +1,313 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - img "adplus-dvertising" [ref=e6] [cursor=pointer]
+    - iframe [ref=e9]:
+      - generic [active] [ref=f1e1]:
+        - generic [ref=f1e4]:
+          - generic [ref=f1e5]:
+            - generic "Kanbox" [ref=f1e6]:
+              - link "The Best Lead Generation Tool - Kanbox" [ref=f1e7] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=C2AlScTEUaf70JdqD_PcPp5OjyAr9u7fsf5KPtrLVE5fAnNraDxABIMb71nlg5YKAgKgOoAGt0LCdPsgBAakCcE7TjC1ssz7gAgCoAwHIAwqqBJ4CT9A8i9BRJdV15em_O7irH1h_NOY6Vxh7FctPjqhuFFFWK5exA5xULCDCmEMjiZDBiwtzSZGSA6ZRVEU3_JJYzCs1bI-Ko13nciNX4P4aWmpYWwMB8zZx9-17whS7HIAMpnd2L8JsGwf72pnA6qVKuA23XnRpOFLVSAcdHBIrc90C9HdEtzgropBXIbBecvUOaarkYO5A8rmn-joJdjw5L0a-i-U14WjphW9GyQG31GO7fqWYAScxSFH7fNrT3NXL1iAJ_0c0A1ZjHm0hDNDivnemyt56Wc7D1_WBScUDy-ric-WLk-gJodF9b3heAa_TgOLFS0UIO61PJEei73zdDIWASaBi3vPSc_t14VmvoQe8HpdrbNDPbPUkjripH8AE39eh0pkF4AQBiAWg5cTpUqAGZoAHrYiB_RioB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB8qpsQKoB-ulsQKoB-qxsQKoB5m1sQKoB763sQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARidATIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlj1gcz7heyQA_IIG2FkeC1zdWJzeW4tMzUyMDYxNzM0MTY2NTU5MrEJkt0mUAdQWXmACgOYCwHICwHaDBEKCxCw9srs8f2Xk6gBEgIBA6oNAklOyA0B4g0TCL-pzPuF7JADFdoB_wgdp8kIqeoNEwj90c_7heyQAxXaAf8IHafJCKnwDQKIDv___________wHYEwqIFAHQFQHKFgIKAPgWAYAXAbIXDhgBKgo2MTY4NTc2NTA1uhcCOAGqGBcJAAAAAICo-EASCjYxNjg1NzY1MDUYAbIYCRICuFAYZiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMIvvHP-4XskAMV2gH_CB2nyQipEAEYASAAEgLkX_D_BwE&num=1&cid=CAQSvwEAwksa0Y3L-8mZHYseY6AWSkCqb-2Rdq4JFMu5qmLYNRuQ3RjYU_l79zKcuF4NSpeNF9HMmORvE_CQRRMNROhEi4s99v-0EdZg8I-JZlkFeJiDyc9f3yee4ShP1AZxwkVgk0LjxJhRTjtmXq4qsla4whsdCkFv3jtMI-CzsqMctca56_lBrgkxXXuKdHnLdY5KXqLu8y_xMVttaOB8pmImshyiYGbTHFyjiOoPgS7m_wnDPwXwNWrI-FFl51CwphgB&sig=AOD64_3zMEoN2LX-WI0NnThCB4WCeSuJrg&client=ca-pub-4573231550355221&rf=4&nb=0&adurl=https://www.kanbox.io%3Futm_source%3Dgads_leadtool%26gad_source%3D5%26gad_campaignid%3D22233035424%26gclid%3DEAIaIQobChMIvvHP-4XskAMV2gH_CB2nyQipEAEYASAAEgLkX_D_BwE
+            - link "Supercharge your Lead Generation on LinkedIn by automating your prospecting campaigns Kanbox" [ref=f1e9] [cursor=pointer]:
+              - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=C2AlScTEUaf70JdqD_PcPp5OjyAr9u7fsf5KPtrLVE5fAnNraDxABIMb71nlg5YKAgKgOoAGt0LCdPsgBAakCcE7TjC1ssz7gAgCoAwHIAwqqBJ4CT9A8i9BRJdV15em_O7irH1h_NOY6Vxh7FctPjqhuFFFWK5exA5xULCDCmEMjiZDBiwtzSZGSA6ZRVEU3_JJYzCs1bI-Ko13nciNX4P4aWmpYWwMB8zZx9-17whS7HIAMpnd2L8JsGwf72pnA6qVKuA23XnRpOFLVSAcdHBIrc90C9HdEtzgropBXIbBecvUOaarkYO5A8rmn-joJdjw5L0a-i-U14WjphW9GyQG31GO7fqWYAScxSFH7fNrT3NXL1iAJ_0c0A1ZjHm0hDNDivnemyt56Wc7D1_WBScUDy-ric-WLk-gJodF9b3heAa_TgOLFS0UIO61PJEei73zdDIWASaBi3vPSc_t14VmvoQe8HpdrbNDPbPUkjripH8AE39eh0pkF4AQBiAWg5cTpUqAGZoAHrYiB_RioB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB8qpsQKoB-ulsQKoB-qxsQKoB5m1sQKoB763sQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARidATIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlj1gcz7heyQA_IIG2FkeC1zdWJzeW4tMzUyMDYxNzM0MTY2NTU5MrEJkt0mUAdQWXmACgOYCwHICwHaDBEKCxCw9srs8f2Xk6gBEgIBA6oNAklOyA0B4g0TCL-pzPuF7JADFdoB_wgdp8kIqeoNEwj90c_7heyQAxXaAf8IHafJCKnwDQKIDv___________wHYEwqIFAHQFQHKFgIKAPgWAYAXAbIXDhgBKgo2MTY4NTc2NTA1uhcCOAGqGBcJAAAAAICo-EASCjYxNjg1NzY1MDUYAbIYCRICuFAYZiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMIvvHP-4XskAMV2gH_CB2nyQipEAEYASAAEgLkX_D_BwE&num=1&cid=CAQSvwEAwksa0Y3L-8mZHYseY6AWSkCqb-2Rdq4JFMu5qmLYNRuQ3RjYU_l79zKcuF4NSpeNF9HMmORvE_CQRRMNROhEi4s99v-0EdZg8I-JZlkFeJiDyc9f3yee4ShP1AZxwkVgk0LjxJhRTjtmXq4qsla4whsdCkFv3jtMI-CzsqMctca56_lBrgkxXXuKdHnLdY5KXqLu8y_xMVttaOB8pmImshyiYGbTHFyjiOoPgS7m_wnDPwXwNWrI-FFl51CwphgB&sig=AOD64_3zMEoN2LX-WI0NnThCB4WCeSuJrg&client=ca-pub-4573231550355221&rf=4&nb=7&adurl=https://www.kanbox.io%3Futm_source%3Dgads_leadtool%26gad_source%3D5%26gad_campaignid%3D22233035424%26gclid%3DEAIaIQobChMIvvHP-4XskAMV2gH_CB2nyQipEAEYASAAEgLkX_D_BwE
+              - text: Supercharge your Lead Generation on LinkedIn by automating your prospecting
+              - text: campaigns Kanbox
+          - link "OPEN" [ref=f1e12] [cursor=pointer]:
+            - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=C2AlScTEUaf70JdqD_PcPp5OjyAr9u7fsf5KPtrLVE5fAnNraDxABIMb71nlg5YKAgKgOoAGt0LCdPsgBAakCcE7TjC1ssz7gAgCoAwHIAwqqBJ4CT9A8i9BRJdV15em_O7irH1h_NOY6Vxh7FctPjqhuFFFWK5exA5xULCDCmEMjiZDBiwtzSZGSA6ZRVEU3_JJYzCs1bI-Ko13nciNX4P4aWmpYWwMB8zZx9-17whS7HIAMpnd2L8JsGwf72pnA6qVKuA23XnRpOFLVSAcdHBIrc90C9HdEtzgropBXIbBecvUOaarkYO5A8rmn-joJdjw5L0a-i-U14WjphW9GyQG31GO7fqWYAScxSFH7fNrT3NXL1iAJ_0c0A1ZjHm0hDNDivnemyt56Wc7D1_WBScUDy-ric-WLk-gJodF9b3heAa_TgOLFS0UIO61PJEei73zdDIWASaBi3vPSc_t14VmvoQe8HpdrbNDPbPUkjripH8AE39eh0pkF4AQBiAWg5cTpUqAGZoAHrYiB_RioB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB8qpsQKoB-ulsQKoB-qxsQKoB5m1sQKoB763sQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARidATIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlj1gcz7heyQA_IIG2FkeC1zdWJzeW4tMzUyMDYxNzM0MTY2NTU5MrEJkt0mUAdQWXmACgOYCwHICwHaDBEKCxCw9srs8f2Xk6gBEgIBA6oNAklOyA0B4g0TCL-pzPuF7JADFdoB_wgdp8kIqeoNEwj90c_7heyQAxXaAf8IHafJCKnwDQKIDv___________wHYEwqIFAHQFQHKFgIKAPgWAYAXAbIXDhgBKgo2MTY4NTc2NTA1uhcCOAGqGBcJAAAAAICo-EASCjYxNjg1NzY1MDUYAbIYCRICuFAYZiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMIvvHP-4XskAMV2gH_CB2nyQipEAEYASAAEgLkX_D_BwE&num=1&cid=CAQSvwEAwksa0Y3L-8mZHYseY6AWSkCqb-2Rdq4JFMu5qmLYNRuQ3RjYU_l79zKcuF4NSpeNF9HMmORvE_CQRRMNROhEi4s99v-0EdZg8I-JZlkFeJiDyc9f3yee4ShP1AZxwkVgk0LjxJhRTjtmXq4qsla4whsdCkFv3jtMI-CzsqMctca56_lBrgkxXXuKdHnLdY5KXqLu8y_xMVttaOB8pmImshyiYGbTHFyjiOoPgS7m_wnDPwXwNWrI-FFl51CwphgB&sig=AOD64_3zMEoN2LX-WI0NnThCB4WCeSuJrg&client=ca-pub-4573231550355221&rf=4&nb=8&adurl=https://www.kanbox.io%3Futm_source%3Dgads_leadtool%26gad_source%3D5%26gad_campaignid%3D22233035424%26gclid%3DEAIaIQobChMIvvHP-4XskAMV2gH_CB2nyQipEAEYASAAEgLkX_D_BwE
+            - generic [ref=f1e13]: OPEN
+            - img [ref=f1e14]
+        - generic [ref=f1e16]:
+          - link [ref=f1e18] [cursor=pointer]:
+            - /url: https://adssettings.google.com/whythisad?source=display&reasons=AQde936F4rX1_c5fBAeyKRRxfFwi1t16YDiR-_HD9hECH3O5YbDfkpRYBMucfTQDj05W05t2iCiUgelNL-Ac36jyjtExZGr-k2PJtCZt3Dr3WnltyazTm-BdTsECU_LqG21T3nTCr42Z-C2PdMfSsGBYIho9WyZxVv6NoowQ8XVZRc3o67yqQjl1_PlDM8s1LU55t5EbjU7-bEDy8swAbfVy9ecWVeGbgIgUQ_na_m8CDrRaBABqKlLsMG8HPQDaFUU75EB0ImlmQlE_Xo1HXXVuq_oU2CCGzT1N2mAYMRAsnYp1nG0oh6lax4oUW_sL0V52IjlAv_tJMfIrWM4S7VvUdhWSKkh3913PAvtRbKtI3ZsZFdgCqlX1thp8nOqsklF7HeptQt4t1O-eKvdk3JbnYAV06o8fBK0SxrKhpi4JugOGpNdUXEv8kBSq1fsJ0r7JTePcOEkPlLfxVIshOSXr74HMky0umX91qyUKPB04SiMDwVfxW_p2psSEJxNefsQQPrr1ArKTaB04Yzsrp6G_QOFN4nkU8VcH0lJksbOfWFoi3767bldNFwK3aCOlItfT94DmpUL2SDgjtjmVfy6ClyttCkGY2sepT-FCpOpzZo-htIWGpWzjAHcnmA1TluCS-EYhZ8vuf9LOoKN8gJyAKcpWAzGMmBZR6BMZusgm335O8TRDHdyzJjnry5sUwt0Dsxc0l-LC6J7audU_2jlR5FpL2v1mYTtq1YXiTSUSLooI9U4sqAUUufBe0dl9HVUN0Gcicrvfr4-JLeqBKeT7H3u7cfx3O90W-q3sMVRJ-mx76CunkD4XbzrvZe0CG_aFm8WZpTxKJfTtccsdKbX4qkLkBjHHli7JB-DkJwYCthe6vqcjk1TJ5qJ1UH8KwSB0DHteKGLLNDGFIMRinb1YtdkiIG1-9zr1a5Br2PK86BlSizmLRO8o9FrMqBmVioohmP1ZEu5X6fh8zQ5ts-vR172aN0a4nk0UCU1pJR0UJPOKgETsk2qPTOCYqwDaGCGBBxRyN4sSeKhJwhm9aaZFgaCkJx5j05yXrwg_FU0H-xkdiJF_0BznvcaGeLSxY6DE0KL5HLlJjabT59AbKRM9_u_gIv8SodlY5o2CmVO9g21WRX9rR2BT80bf5Cwf36WlgKGXA4sBUMVV8wpLuWopc-vlJJle1kevyjzR6lDvttpO86IxOcVRrmFdrjP7V5UG58OzPxNhmFFZEtgDtl-8cB082JkNDZ27MgNqkFqngtMfzbIrYr21uXCq1i5vOjNPSeFz3xORANPJA3fG_dP_3nAz46FbKuQTi2W9d4qf9FCkO_aitt0bDCy3tPLFO0pSmupxbi7XjzobH-rCQ7sCQRxgw6nTBzYrWb_1zphbkML4Y2v57XHVTqa49r1seOhtLpkQUDIi9kWaiKO76HP8loXum-dXBfYmGdTe_XtcsJE1yPiRdeG3y-f5p1JGHKObLOW5JTPoRa0oJbx-RIuZD7htmCSCl9bpJ5pvjd21VpUMDhkSfJ0fK_LK1NgOYnk2zAoPYjWVA1HWJgzB13KhPQwOND3Lepro9-2lnwmEknAwUBLQKvyWkIxrBMmAjM5DwCZUq7LPBo6flMnOWoG3LZ9YrqeHB7xfs7OVG9neepvaHaaHptSyy8aQp21E1Sw3eQb869otmzfb0CSDB8zApKbQrv47YOU0lZJc0ny6SDf9QjtCIBpLbZHDLSkLUCoKlMGBF4P4RMpsfQ78EO_mAidCyGIkH1lOvSokgDUVs0wzODdkLl-ixF3Zj3J8BScq7ZZxvu7APzxvqBHiYEL-vQc1E_QNaotqtlztH7ZlxT620ghPf4AB4RvwQuDWW45EYUDFTrNdWBOs9pSdUhrSYksxK3l8zpBsC0W84f9jTKowo1LZAtT0NjvRbZ1bHiHgA3lBaz8AnvmsZ8cnkewa9LnVb2XNmprDSK4w_PQhCOUQqUOkbRZsJ7JrkR86khzvYS69Yy2xffx4pK2VFBBpNU37kod_p_2Pgzmtc6YrpPKDTceEqoWBtSOuq01WeiXGoD8Wrrf907yC8VOHvVX2_mx3ayW6WbOsmhCTLLmGWvRlG3mbrD8CwjUpMG0cHDO0ELz8K82e-j_XnTT2IRWLpq500zmR8n0DZImrJeON4POTjNVpSIxyMCRHUvRHicPSnvAchtrphMavtCTUErv6AVn0IFsuhY6zZyslcHeOYs2rzSo9_D5L8dtSJ-Ew5JNQd6OsfidhndNxFKEYKqEOXVXZHe5rIux5189ADvkc_PCVqicBZT_yw6u_mkOJSOURXiSkLnny98j-eFXBmoBpCVkGLg4zG1kj4uIdVhJIOk2L--4ukIO8z7xTUe7Xy644lOgPECaykhDSaWZu2KBB83VHtnUwPfrFRw0c3Yk3N3do5pqyN2FpvYLiFEBK2Ocu_KXRVU3Fkjon2wZnxYSzp3ns3_BQ3Z0vKS__uwap_qKMjNLCjAOnHlDrF-nBjAcnQvnLaB3ziUPNQxtVN26JnldzQ_F9nBTsuivIwpFFn0WrObv4BifqfTsjpATEE45qUHNUpB5n3QVNgTbRhtNwb3pURgPXpwjeC_g0XC7N92NWQJdhELQb-1ryfFF7vBYncX9gIfn_u0X35ylD_np4yGur2XlIb60yaH3O6fYZ1dA8C9mDLjRkZs-ththNhBN7d4N4JaF3urpCuzKOio3eLDmnvlz3DsOrZh_V1PUs2J8s6hG68-i3EEtZQegHFw4IKybQeGjV7NFVvrqtaayhS-JcPqVFIlJXbZiewUmbTe3uTi0XPZ0A07l5NQ&opi=122715837
+            - img [ref=f1e20]
+          - link [ref=f1e22] [cursor=pointer]:
+            - /url: https://adssettings.google.com/whythisad?source=display&reasons=AQde936F4rX1_c5fBAeyKRRxfFwi1t16YDiR-_HD9hECH3O5YbDfkpRYBMucfTQDj05W05t2iCiUgelNL-Ac36jyjtExZGr-k2PJtCZt3Dr3WnltyazTm-BdTsECU_LqG21T3nTCr42Z-C2PdMfSsGBYIho9WyZxVv6NoowQ8XVZRc3o67yqQjl1_PlDM8s1LU55t5EbjU7-bEDy8swAbfVy9ecWVeGbgIgUQ_na_m8CDrRaBABqKlLsMG8HPQDaFUU75EB0ImlmQlE_Xo1HXXVuq_oU2CCGzT1N2mAYMRAsnYp1nG0oh6lax4oUW_sL0V52IjlAv_tJMfIrWM4S7VvUdhWSKkh3913PAvtRbKtI3ZsZFdgCqlX1thp8nOqsklF7HeptQt4t1O-eKvdk3JbnYAV06o8fBK0SxrKhpi4JugOGpNdUXEv8kBSq1fsJ0r7JTePcOEkPlLfxVIshOSXr74HMky0umX91qyUKPB04SiMDwVfxW_p2psSEJxNefsQQPrr1ArKTaB04Yzsrp6G_QOFN4nkU8VcH0lJksbOfWFoi3767bldNFwK3aCOlItfT94DmpUL2SDgjtjmVfy6ClyttCkGY2sepT-FCpOpzZo-htIWGpWzjAHcnmA1TluCS-EYhZ8vuf9LOoKN8gJyAKcpWAzGMmBZR6BMZusgm335O8TRDHdyzJjnry5sUwt0Dsxc0l-LC6J7audU_2jlR5FpL2v1mYTtq1YXiTSUSLooI9U4sqAUUufBe0dl9HVUN0Gcicrvfr4-JLeqBKeT7H3u7cfx3O90W-q3sMVRJ-mx76CunkD4XbzrvZe0CG_aFm8WZpTxKJfTtccsdKbX4qkLkBjHHli7JB-DkJwYCthe6vqcjk1TJ5qJ1UH8KwSB0DHteKGLLNDGFIMRinb1YtdkiIG1-9zr1a5Br2PK86BlSizmLRO8o9FrMqBmVioohmP1ZEu5X6fh8zQ5ts-vR172aN0a4nk0UCU1pJR0UJPOKgETsk2qPTOCYqwDaGCGBBxRyN4sSeKhJwhm9aaZFgaCkJx5j05yXrwg_FU0H-xkdiJF_0BznvcaGeLSxY6DE0KL5HLlJjabT59AbKRM9_u_gIv8SodlY5o2CmVO9g21WRX9rR2BT80bf5Cwf36WlgKGXA4sBUMVV8wpLuWopc-vlJJle1kevyjzR6lDvttpO86IxOcVRrmFdrjP7V5UG58OzPxNhmFFZEtgDtl-8cB082JkNDZ27MgNqkFqngtMfzbIrYr21uXCq1i5vOjNPSeFz3xORANPJA3fG_dP_3nAz46FbKuQTi2W9d4qf9FCkO_aitt0bDCy3tPLFO0pSmupxbi7XjzobH-rCQ7sCQRxgw6nTBzYrWb_1zphbkML4Y2v57XHVTqa49r1seOhtLpkQUDIi9kWaiKO76HP8loXum-dXBfYmGdTe_XtcsJE1yPiRdeG3y-f5p1JGHKObLOW5JTPoRa0oJbx-RIuZD7htmCSCl9bpJ5pvjd21VpUMDhkSfJ0fK_LK1NgOYnk2zAoPYjWVA1HWJgzB13KhPQwOND3Lepro9-2lnwmEknAwUBLQKvyWkIxrBMmAjM5DwCZUq7LPBo6flMnOWoG3LZ9YrqeHB7xfs7OVG9neepvaHaaHptSyy8aQp21E1Sw3eQb869otmzfb0CSDB8zApKbQrv47YOU0lZJc0ny6SDf9QjtCIBpLbZHDLSkLUCoKlMGBF4P4RMpsfQ78EO_mAidCyGIkH1lOvSokgDUVs0wzODdkLl-ixF3Zj3J8BScq7ZZxvu7APzxvqBHiYEL-vQc1E_QNaotqtlztH7ZlxT620ghPf4AB4RvwQuDWW45EYUDFTrNdWBOs9pSdUhrSYksxK3l8zpBsC0W84f9jTKowo1LZAtT0NjvRbZ1bHiHgA3lBaz8AnvmsZ8cnkewa9LnVb2XNmprDSK4w_PQhCOUQqUOkbRZsJ7JrkR86khzvYS69Yy2xffx4pK2VFBBpNU37kod_p_2Pgzmtc6YrpPKDTceEqoWBtSOuq01WeiXGoD8Wrrf907yC8VOHvVX2_mx3ayW6WbOsmhCTLLmGWvRlG3mbrD8CwjUpMG0cHDO0ELz8K82e-j_XnTT2IRWLpq500zmR8n0DZImrJeON4POTjNVpSIxyMCRHUvRHicPSnvAchtrphMavtCTUErv6AVn0IFsuhY6zZyslcHeOYs2rzSo9_D5L8dtSJ-Ew5JNQd6OsfidhndNxFKEYKqEOXVXZHe5rIux5189ADvkc_PCVqicBZT_yw6u_mkOJSOURXiSkLnny98j-eFXBmoBpCVkGLg4zG1kj4uIdVhJIOk2L--4ukIO8z7xTUe7Xy644lOgPECaykhDSaWZu2KBB83VHtnUwPfrFRw0c3Yk3N3do5pqyN2FpvYLiFEBK2Ocu_KXRVU3Fkjon2wZnxYSzp3ns3_BQ3Z0vKS__uwap_qKMjNLCjAOnHlDrF-nBjAcnQvnLaB3ziUPNQxtVN26JnldzQ_F9nBTsuivIwpFFn0WrObv4BifqfTsjpATEE45qUHNUpB5n3QVNgTbRhtNwb3pURgPXpwjeC_g0XC7N92NWQJdhELQb-1ryfFF7vBYncX9gIfn_u0X35ylD_np4yGur2XlIb60yaH3O6fYZ1dA8C9mDLjRkZs-ththNhBN7d4N4JaF3urpCuzKOio3eLDmnvlz3DsOrZh_V1PUs2J8s6hG68-i3EEtZQegHFw4IKybQeGjV7NFVvrqtaayhS-JcPqVFIlJXbZiewUmbTe3uTi0XPZ0A07l5NQ&opi=122715837
+            - img [ref=f1e24]
+        - img [ref=f1e27] [cursor=pointer]
+        - generic [ref=f1e38]:
+          - img [ref=f1e41]
+          - generic [ref=f1e44]:
+            - text: Ads by
+            - img [ref=f1e45]
+          - generic [ref=f1e48]:
+            - generic [ref=f1e51] [cursor=pointer]: Ad options
+            - generic [ref=f1e54] [cursor=pointer]: Send feedback
+            - link [ref=f1e56] [cursor=pointer]:
+              - /url: https://adssettings.google.com/whythisad?source=display&reasons=AQde936F4rX1_c5fBAeyKRRxfFwi1t16YDiR-_HD9hECH3O5YbDfkpRYBMucfTQDj05W05t2iCiUgelNL-Ac36jyjtExZGr-k2PJtCZt3Dr3WnltyazTm-BdTsECU_LqG21T3nTCr42Z-C2PdMfSsGBYIho9WyZxVv6NoowQ8XVZRc3o67yqQjl1_PlDM8s1LU55t5EbjU7-bEDy8swAbfVy9ecWVeGbgIgUQ_na_m8CDrRaBABqKlLsMG8HPQDaFUU75EB0ImlmQlE_Xo1HXXVuq_oU2CCGzT1N2mAYMRAsnYp1nG0oh6lax4oUW_sL0V52IjlAv_tJMfIrWM4S7VvUdhWSKkh3913PAvtRbKtI3ZsZFdgCqlX1thp8nOqsklF7HeptQt4t1O-eKvdk3JbnYAV06o8fBK0SxrKhpi4JugOGpNdUXEv8kBSq1fsJ0r7JTePcOEkPlLfxVIshOSXr74HMky0umX91qyUKPB04SiMDwVfxW_p2psSEJxNefsQQPrr1ArKTaB04Yzsrp6G_QOFN4nkU8VcH0lJksbOfWFoi3767bldNFwK3aCOlItfT94DmpUL2SDgjtjmVfy6ClyttCkGY2sepT-FCpOpzZo-htIWGpWzjAHcnmA1TluCS-EYhZ8vuf9LOoKN8gJyAKcpWAzGMmBZR6BMZusgm335O8TRDHdyzJjnry5sUwt0Dsxc0l-LC6J7audU_2jlR5FpL2v1mYTtq1YXiTSUSLooI9U4sqAUUufBe0dl9HVUN0Gcicrvfr4-JLeqBKeT7H3u7cfx3O90W-q3sMVRJ-mx76CunkD4XbzrvZe0CG_aFm8WZpTxKJfTtccsdKbX4qkLkBjHHli7JB-DkJwYCthe6vqcjk1TJ5qJ1UH8KwSB0DHteKGLLNDGFIMRinb1YtdkiIG1-9zr1a5Br2PK86BlSizmLRO8o9FrMqBmVioohmP1ZEu5X6fh8zQ5ts-vR172aN0a4nk0UCU1pJR0UJPOKgETsk2qPTOCYqwDaGCGBBxRyN4sSeKhJwhm9aaZFgaCkJx5j05yXrwg_FU0H-xkdiJF_0BznvcaGeLSxY6DE0KL5HLlJjabT59AbKRM9_u_gIv8SodlY5o2CmVO9g21WRX9rR2BT80bf5Cwf36WlgKGXA4sBUMVV8wpLuWopc-vlJJle1kevyjzR6lDvttpO86IxOcVRrmFdrjP7V5UG58OzPxNhmFFZEtgDtl-8cB082JkNDZ27MgNqkFqngtMfzbIrYr21uXCq1i5vOjNPSeFz3xORANPJA3fG_dP_3nAz46FbKuQTi2W9d4qf9FCkO_aitt0bDCy3tPLFO0pSmupxbi7XjzobH-rCQ7sCQRxgw6nTBzYrWb_1zphbkML4Y2v57XHVTqa49r1seOhtLpkQUDIi9kWaiKO76HP8loXum-dXBfYmGdTe_XtcsJE1yPiRdeG3y-f5p1JGHKObLOW5JTPoRa0oJbx-RIuZD7htmCSCl9bpJ5pvjd21VpUMDhkSfJ0fK_LK1NgOYnk2zAoPYjWVA1HWJgzB13KhPQwOND3Lepro9-2lnwmEknAwUBLQKvyWkIxrBMmAjM5DwCZUq7LPBo6flMnOWoG3LZ9YrqeHB7xfs7OVG9neepvaHaaHptSyy8aQp21E1Sw3eQb869otmzfb0CSDB8zApKbQrv47YOU0lZJc0ny6SDf9QjtCIBpLbZHDLSkLUCoKlMGBF4P4RMpsfQ78EO_mAidCyGIkH1lOvSokgDUVs0wzODdkLl-ixF3Zj3J8BScq7ZZxvu7APzxvqBHiYEL-vQc1E_QNaotqtlztH7ZlxT620ghPf4AB4RvwQuDWW45EYUDFTrNdWBOs9pSdUhrSYksxK3l8zpBsC0W84f9jTKowo1LZAtT0NjvRbZ1bHiHgA3lBaz8AnvmsZ8cnkewa9LnVb2XNmprDSK4w_PQhCOUQqUOkbRZsJ7JrkR86khzvYS69Yy2xffx4pK2VFBBpNU37kod_p_2Pgzmtc6YrpPKDTceEqoWBtSOuq01WeiXGoD8Wrrf907yC8VOHvVX2_mx3ayW6WbOsmhCTLLmGWvRlG3mbrD8CwjUpMG0cHDO0ELz8K82e-j_XnTT2IRWLpq500zmR8n0DZImrJeON4POTjNVpSIxyMCRHUvRHicPSnvAchtrphMavtCTUErv6AVn0IFsuhY6zZyslcHeOYs2rzSo9_D5L8dtSJ-Ew5JNQd6OsfidhndNxFKEYKqEOXVXZHe5rIux5189ADvkc_PCVqicBZT_yw6u_mkOJSOURXiSkLnny98j-eFXBmoBpCVkGLg4zG1kj4uIdVhJIOk2L--4ukIO8z7xTUe7Xy644lOgPECaykhDSaWZu2KBB83VHtnUwPfrFRw0c3Yk3N3do5pqyN2FpvYLiFEBK2Ocu_KXRVU3Fkjon2wZnxYSzp3ns3_BQ3Z0vKS__uwap_qKMjNLCjAOnHlDrF-nBjAcnQvnLaB3ziUPNQxtVN26JnldzQ_F9nBTsuivIwpFFn0WrObv4BifqfTsjpATEE45qUHNUpB5n3QVNgTbRhtNwb3pURgPXpwjeC_g0XC7N92NWQJdhELQb-1ryfFF7vBYncX9gIfn_u0X35ylD_np4yGur2XlIb60yaH3O6fYZ1dA8C9mDLjRkZs-ththNhBN7d4N4JaF3urpCuzKOio3eLDmnvlz3DsOrZh_V1PUs2J8s6hG68-i3EEtZQegHFw4IKybQeGjV7NFVvrqtaayhS-JcPqVFIlJXbZiewUmbTe3uTi0XPZ0A07l5NQ&opi=122715837
+              - generic [ref=f1e57]:
+                - text: Why this ad?
+                - img [ref=f1e58]
+        - generic [ref=f1e60]:
+          - generic [ref=f1e63] [cursor=pointer]: Not interested in this ad
+          - generic [ref=f1e66] [cursor=pointer]: Ad was inappropriate
+          - generic [ref=f1e69] [cursor=pointer]: Seen this ad multiple times
+          - generic [ref=f1e72] [cursor=pointer]: Ad covered content
+        - generic [ref=f1e78]: Thanks. Feedback improves Google ads
+        - generic [ref=f1e84]:
+          - text: Ad closed by
+          - img [ref=f1e85]
+        - generic [ref=f1e92]:
+          - img [ref=f1e95]
+          - generic [ref=f1e97]:
+            - generic [ref=f1e99]: Personalize ads on this site
+            - link [ref=f1e103] [cursor=pointer]:
+              - /url: https://support.google.com/ads/answer/10923348
+              - generic [ref=f1e104]:
+                - text: Learn more
+                - img [ref=f1e105]
+  - generic [ref=e10]:
+    - banner [ref=e11]:
+      - link [ref=e12] [cursor=pointer]:
+        - /url: https://demoqa.com
+        - img [ref=e13]
+    - generic [ref=e16]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e22] [cursor=pointer]:
+            - generic [ref=e23]:
+              - img [ref=e25]
+              - text: Elements
+            - img [ref=e30]
+          - list [ref=e35]:
+            - listitem [ref=e36] [cursor=pointer]:
+              - img [ref=e37]
+              - generic [ref=e39]: Text Box
+            - listitem [ref=e40] [cursor=pointer]:
+              - img [ref=e41]
+              - generic [ref=e43]: Check Box
+            - listitem [ref=e44] [cursor=pointer]:
+              - img [ref=e45]
+              - generic [ref=e47]: Radio Button
+            - listitem [ref=e48] [cursor=pointer]:
+              - img [ref=e49]
+              - generic [ref=e51]: Web Tables
+            - listitem [ref=e52] [cursor=pointer]:
+              - img [ref=e53]
+              - generic [ref=e55]: Buttons
+            - listitem [ref=e56] [cursor=pointer]:
+              - img [ref=e57]
+              - generic [ref=e59]: Links
+            - listitem [ref=e60] [cursor=pointer]:
+              - img [ref=e61]
+              - generic [ref=e63]: Broken Links - Images
+            - listitem [ref=e64] [cursor=pointer]:
+              - img [ref=e65]
+              - generic [ref=e67]: Upload and Download
+            - listitem [ref=e68] [cursor=pointer]:
+              - img [ref=e69]
+              - generic [ref=e71]: Dynamic Properties
+        - generic [ref=e74] [cursor=pointer]:
+          - generic [ref=e75]:
+            - img [ref=e77]
+            - text: Forms
+          - img [ref=e83]
+        - generic [ref=e89] [cursor=pointer]:
+          - generic [ref=e90]:
+            - img [ref=e92]
+            - text: Alerts, Frame & Windows
+          - img [ref=e97]
+        - generic [ref=e103] [cursor=pointer]:
+          - generic [ref=e104]:
+            - img [ref=e106]
+            - text: Widgets
+          - img [ref=e111]
+        - generic [ref=e117] [cursor=pointer]:
+          - generic [ref=e118]:
+            - img [ref=e120]
+            - text: Interactions
+          - img [ref=e125]
+        - generic [ref=e131] [cursor=pointer]:
+          - generic [ref=e132]:
+            - img [ref=e134]
+            - text: Book Store Application
+          - img [ref=e139]
+      - generic [ref=e143]:
+        - iframe [ref=e146]:
+          - generic [ref=f2e6]:
+            - generic [ref=f2e8] [cursor=pointer]:
+              - link [ref=f2e10]:
+                - /url: https://clck.mgid.com/ghits/25279295/i/58092114/0/pp/1/1?h=NTXQ6zF5nDIhMEjn8vdhdNILXmOTaf6kEr9csz6t9nTQK32p1bpeBvPX62zlJtAnjpuVPNRuyXoI3CdrTVXrKRWz1EltooBnJPpsd4-QV4yCHL5iv2RkcS-6vaFZv610&rid=d02bcf7b-bf95-11f0-812d-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablwIicEx4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy1zotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7TZIwt8wWBOrWT2i6_-AJYwA**
+              - generic [ref=f2e13]:
+                - link "हर कोई डायबिटीज के लिए यही नेचुरल ट्रिक अपना रहा है - बेहद असरदार" [ref=f2e15]:
+                  - /url: https://clck.mgid.com/ghits/25279295/i/58092114/0/pp/1/1?h=NTXQ6zF5nDIhMEjn8vdhdNILXmOTaf6kEr9csz6t9nTQK32p1bpeBvPX62zlJtAnjpuVPNRuyXoI3CdrTVXrKRWz1EltooBnJPpsd4-QV4yCHL5iv2RkcS-6vaFZv610&rid=d02bcf7b-bf95-11f0-812d-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablwIicEx4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy1zotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7TZIwt8wWBOrWT2i6_-AJYwA**
+                - link "Insulux Diabetic Support" [ref=f2e17]:
+                  - /url: https://clck.mgid.com/ghits/25279295/i/58092114/0/pp/1/1?h=NTXQ6zF5nDIhMEjn8vdhdNILXmOTaf6kEr9csz6t9nTQK32p1bpeBvPX62zlJtAnjpuVPNRuyXoI3CdrTVXrKRWz1EltooBnJPpsd4-QV4yCHL5iv2RkcS-6vaFZv610&rid=d02bcf7b-bf95-11f0-812d-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablwIicEx4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy1zotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7TZIwt8wWBOrWT2i6_-AJYwA**
+            - generic [ref=f2e19] [cursor=pointer]:
+              - link [ref=f2e21]:
+                - /url: https://clck.mgid.com/ghits/25279177/i/58092114/0/pp/2/1?h=NTXQ6zF5nDIhMEjn8vdhdKYo2BpKJ7w_0p_qVeJf5oQTBoE-YtDBNYXIPv9Hgx6KeaHSlTQSSuwxxOrpggD8bBWz1EltooBnJPpsd4-QV4zftlVDo2kI2Ll4mt1CTlMR&rid=d02bcf7b-bf95-11f0-812d-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablwIicEx4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy1zotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7TZIwt8wWBOrWT2i6_-AJYwA**
+              - generic [ref=f2e24]:
+                - link "मधुमेह हमेशा के लिए ख़त्म हो जाएगा! सोने से पहले करें ये काम" [ref=f2e26]:
+                  - /url: https://clck.mgid.com/ghits/25279177/i/58092114/0/pp/2/1?h=NTXQ6zF5nDIhMEjn8vdhdKYo2BpKJ7w_0p_qVeJf5oQTBoE-YtDBNYXIPv9Hgx6KeaHSlTQSSuwxxOrpggD8bBWz1EltooBnJPpsd4-QV4zftlVDo2kI2Ll4mt1CTlMR&rid=d02bcf7b-bf95-11f0-812d-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablwIicEx4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy1zotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7TZIwt8wWBOrWT2i6_-AJYwA**
+                - link "Insulux Diabetic Support" [ref=f2e28]:
+                  - /url: https://clck.mgid.com/ghits/25279177/i/58092114/0/pp/2/1?h=NTXQ6zF5nDIhMEjn8vdhdKYo2BpKJ7w_0p_qVeJf5oQTBoE-YtDBNYXIPv9Hgx6KeaHSlTQSSuwxxOrpggD8bBWz1EltooBnJPpsd4-QV4zftlVDo2kI2Ll4mt1CTlMR&rid=d02bcf7b-bf95-11f0-812d-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablwIicEx4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy1zotcHMnYqNGVwm8XjpUrITqUd95bTSEBwmXOMB8XK7TZIwt8wWBOrWT2i6_-AJYwA**
+        - heading "Web Tables" [level=1] [ref=e147]
+        - generic [ref=e148]:
+          - generic [ref=e149]:
+            - button "Add" [ref=e151] [cursor=pointer]
+            - generic [ref=e153]:
+              - textbox "Type to search" [active] [ref=e154]: test
+              - img [ref=e158]
+          - generic [ref=e161]:
+            - grid [ref=e162]:
+              - row "First Name Last Name Age Email Salary Department Action" [ref=e164]:
+                - columnheader "First Name" [ref=e165] [cursor=pointer]:
+                  - generic [ref=e166]: First Name
+                - columnheader "Last Name" [ref=e168] [cursor=pointer]:
+                  - generic [ref=e169]: Last Name
+                - columnheader "Age" [ref=e171] [cursor=pointer]:
+                  - generic [ref=e172]: Age
+                - columnheader "Email" [ref=e174] [cursor=pointer]:
+                  - generic [ref=e175]: Email
+                - columnheader "Salary" [ref=e177] [cursor=pointer]:
+                  - generic [ref=e178]: Salary
+                - columnheader "Department" [ref=e180] [cursor=pointer]:
+                  - generic [ref=e181]: Department
+                - columnheader "Action" [ref=e183] [cursor=pointer]:
+                  - generic [ref=e184]: Action
+              - generic [ref=e186]:
+                - rowgroup [ref=e187]:
+                  - row "test test 30 test@gmail.com 300000 it Edit Delete" [ref=e188]:
+                    - gridcell "test" [ref=e189]
+                    - gridcell "test" [ref=e190]
+                    - gridcell "30" [ref=e191]
+                    - gridcell "test@gmail.com" [ref=e192]
+                    - gridcell "300000" [ref=e193]
+                    - gridcell "it" [ref=e194]
+                    - gridcell "Edit Delete" [ref=e195]:
+                      - generic [ref=e196]:
+                        - generic "Edit" [ref=e197] [cursor=pointer]:
+                          - img [ref=e198]
+                        - generic "Delete" [ref=e200] [cursor=pointer]:
+                          - img [ref=e201]
+                - rowgroup [ref=e203]:
+                  - row [ref=e204]:
+                    - gridcell [ref=e205]
+                    - gridcell [ref=e206]
+                    - gridcell [ref=e207]
+                    - gridcell [ref=e208]
+                    - gridcell [ref=e209]
+                    - gridcell [ref=e210]
+                    - gridcell [ref=e211]
+                - rowgroup [ref=e212]:
+                  - row [ref=e213]:
+                    - gridcell [ref=e214]
+                    - gridcell [ref=e215]
+                    - gridcell [ref=e216]
+                    - gridcell [ref=e217]
+                    - gridcell [ref=e218]
+                    - gridcell [ref=e219]
+                    - gridcell [ref=e220]
+                - rowgroup [ref=e221]:
+                  - row [ref=e222]:
+                    - gridcell [ref=e223]
+                    - gridcell [ref=e224]
+                    - gridcell [ref=e225]
+                    - gridcell [ref=e226]
+                    - gridcell [ref=e227]
+                    - gridcell [ref=e228]
+                    - gridcell [ref=e229]
+                - rowgroup [ref=e230]:
+                  - row [ref=e231]:
+                    - gridcell [ref=e232]
+                    - gridcell [ref=e233]
+                    - gridcell [ref=e234]
+                    - gridcell [ref=e235]
+                    - gridcell [ref=e236]
+                    - gridcell [ref=e237]
+                    - gridcell [ref=e238]
+                - rowgroup [ref=e239]:
+                  - row [ref=e240]:
+                    - gridcell [ref=e241]
+                    - gridcell [ref=e242]
+                    - gridcell [ref=e243]
+                    - gridcell [ref=e244]
+                    - gridcell [ref=e245]
+                    - gridcell [ref=e246]
+                    - gridcell [ref=e247]
+                - rowgroup [ref=e248]:
+                  - row [ref=e249]:
+                    - gridcell [ref=e250]
+                    - gridcell [ref=e251]
+                    - gridcell [ref=e252]
+                    - gridcell [ref=e253]
+                    - gridcell [ref=e254]
+                    - gridcell [ref=e255]
+                    - gridcell [ref=e256]
+                - rowgroup [ref=e257]:
+                  - row [ref=e258]:
+                    - gridcell [ref=e259]
+                    - gridcell [ref=e260]
+                    - gridcell [ref=e261]
+                    - gridcell [ref=e262]
+                    - gridcell [ref=e263]
+                    - gridcell [ref=e264]
+                    - gridcell [ref=e265]
+                - rowgroup [ref=e266]:
+                  - row [ref=e267]:
+                    - gridcell [ref=e268]
+                    - gridcell [ref=e269]
+                    - gridcell [ref=e270]
+                    - gridcell [ref=e271]
+                    - gridcell [ref=e272]
+                    - gridcell [ref=e273]
+                    - gridcell [ref=e274]
+                - rowgroup [ref=e275]:
+                  - row [ref=e276]:
+                    - gridcell [ref=e277]
+                    - gridcell [ref=e278]
+                    - gridcell [ref=e279]
+                    - gridcell [ref=e280]
+                    - gridcell [ref=e281]
+                    - gridcell [ref=e282]
+                    - gridcell [ref=e283]
+            - generic [ref=e285]:
+              - button "Previous" [disabled] [ref=e287]
+              - generic [ref=e288]:
+                - generic [ref=e289]:
+                  - text: Page
+                  - spinbutton "jump to page" [ref=e291]: "1"
+                  - text: of 1
+                - combobox "rows per page" [ref=e293]:
+                  - option "5 rows"
+                  - option "10 rows" [selected]
+                  - option "20 rows"
+                  - option "25 rows"
+                  - option "50 rows"
+                  - option "100 rows"
+              - button "Next" [disabled] [ref=e295]
+            - generic:
+              - generic: Loading...
+        - iframe [ref=e299]:
+          - generic [ref=f3e8] [cursor=pointer]:
+            - link [ref=f3e10]:
+              - /url: https://clck.mgid.com/ghits/25279269/i/58092122/0/pp/1/1?h=NTXQ6zF5nDIhMEjn8vdhdJIsr_BrODXwqxFQTxwBKfWmJJ7EIBhD35fgcteQsDOTFfDs7xNmjRbj5q_w-hodjBWz1EltooBnJPpsd4-QV4xukLSbZcQ8nE5vlFUu1-q0&rid=d02c309c-bf95-11f0-b840-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablgBGvp_4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy14NLSG4UbKMGxZxPQBEUpqbqUd95bTSEBwmXOMB8XK7TGnu0ai1d4XYKNUJhqdO2yQ**
+            - generic [ref=f3e13]:
+              - link "Insulux Diabetic Support" [ref=f3e15]:
+                - /url: https://clck.mgid.com/ghits/25279269/i/58092122/0/pp/1/1?h=NTXQ6zF5nDIhMEjn8vdhdJIsr_BrODXwqxFQTxwBKfWmJJ7EIBhD35fgcteQsDOTFfDs7xNmjRbj5q_w-hodjBWz1EltooBnJPpsd4-QV4xukLSbZcQ8nE5vlFUu1-q0&rid=d02c309c-bf95-11f0-b840-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablgBGvp_4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy14NLSG4UbKMGxZxPQBEUpqbqUd95bTSEBwmXOMB8XK7TGnu0ai1d4XYKNUJhqdO2yQ**
+              - 'link "अहमदाबाद: महिला ने ढूँढा डायबिटीज से बचने का उपाय जो हो गया वायरल" [ref=f3e17]':
+                - /url: https://clck.mgid.com/ghits/25279269/i/58092122/0/pp/1/1?h=NTXQ6zF5nDIhMEjn8vdhdJIsr_BrODXwqxFQTxwBKfWmJJ7EIBhD35fgcteQsDOTFfDs7xNmjRbj5q_w-hodjBWz1EltooBnJPpsd4-QV4xukLSbZcQ8nE5vlFUu1-q0&rid=d02c309c-bf95-11f0-b840-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablgBGvp_4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy14NLSG4UbKMGxZxPQBEUpqbqUd95bTSEBwmXOMB8XK7TGnu0ai1d4XYKNUJhqdO2yQ**
+              - link "और जानें→" [ref=f3e19]:
+                - /url: https://clck.mgid.com/ghits/25279269/i/58092122/0/pp/1/1?h=NTXQ6zF5nDIhMEjn8vdhdJIsr_BrODXwqxFQTxwBKfWmJJ7EIBhD35fgcteQsDOTFfDs7xNmjRbj5q_w-hodjBWz1EltooBnJPpsd4-QV4xukLSbZcQ8nE5vlFUu1-q0&rid=d02c309c-bf95-11f0-b840-d404e676c2e0&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablgBGvp_4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy14NLSG4UbKMGxZxPQBEUpqbqUd95bTSEBwmXOMB8XK7TGnu0ai1d4XYKNUJhqdO2yQ**
+      - generic [ref=e304]:
+        - img "Build PlayWright tests with AI" [ref=e306] [cursor=pointer]
+        - iframe [ref=e309]:
+          - generic [ref=f4e7] [cursor=pointer]:
+            - link [ref=f4e8]:
+              - /url: https://clck.mgid.com/ghits/25279177/i/58092113/0/pp/1/1?h=NTXQ6zF5nDIhMEjn8vdhdLVtUINLwXny4q-g09Dt7CGmJJ7EIBhD35fgcteQsDOTOsjQKedDXdUa-8ERz8ON3xWz1EltooBnJPpsd4-QV4zJGwBfQ8ogVz_5wOodzl1l&rid=d02bd44d-bf95-11f0-812d-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablqAe4aJ4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy1zotcHMnYqNGVwm8XjpUrIS0S7QsOb4TyE5H_wq1CwLYlSsj3wtzulVhXLqKr5mkBw**
+            - generic [ref=f4e9]:
+              - link [ref=f4e11]:
+                - /url: https://clck.mgid.com/ghits/25279177/i/58092113/0/pp/1/1?h=NTXQ6zF5nDIhMEjn8vdhdLVtUINLwXny4q-g09Dt7CGmJJ7EIBhD35fgcteQsDOTOsjQKedDXdUa-8ERz8ON3xWz1EltooBnJPpsd4-QV4zJGwBfQ8ogVz_5wOodzl1l&rid=d02bd44d-bf95-11f0-812d-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablqAe4aJ4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy1zotcHMnYqNGVwm8XjpUrIS0S7QsOb4TyE5H_wq1CwLYlSsj3wtzulVhXLqKr5mkBw**
+              - generic [ref=f4e14]:
+                - link "मधुमेह हमेशा के लिए ख़त्म हो जाएगा! सोने से पहले करें ये काम" [ref=f4e16]:
+                  - /url: https://clck.mgid.com/ghits/25279177/i/58092113/0/pp/1/1?h=NTXQ6zF5nDIhMEjn8vdhdLVtUINLwXny4q-g09Dt7CGmJJ7EIBhD35fgcteQsDOTOsjQKedDXdUa-8ERz8ON3xWz1EltooBnJPpsd4-QV4zJGwBfQ8ogVz_5wOodzl1l&rid=d02bd44d-bf95-11f0-812d-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablqAe4aJ4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy1zotcHMnYqNGVwm8XjpUrIS0S7QsOb4TyE5H_wq1CwLYlSsj3wtzulVhXLqKr5mkBw**
+                - link "Insulux Diabetic Support" [ref=f4e18]:
+                  - /url: https://clck.mgid.com/ghits/25279177/i/58092113/0/pp/1/1?h=NTXQ6zF5nDIhMEjn8vdhdLVtUINLwXny4q-g09Dt7CGmJJ7EIBhD35fgcteQsDOTOsjQKedDXdUa-8ERz8ON3xWz1EltooBnJPpsd4-QV4zJGwBfQ8ogVz_5wOodzl1l&rid=d02bd44d-bf95-11f0-812d-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablqAe4aJ4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy1zotcHMnYqNGVwm8XjpUrIS0S7QsOb4TyE5H_wq1CwLYlSsj3wtzulVhXLqKr5mkBw**
+                - link [ref=f4e19]:
+                  - /url: https://clck.mgid.com/ghits/25279177/i/58092113/0/pp/1/1?h=NTXQ6zF5nDIhMEjn8vdhdLVtUINLwXny4q-g09Dt7CGmJJ7EIBhD35fgcteQsDOTOsjQKedDXdUa-8ERz8ON3xWz1EltooBnJPpsd4-QV4zJGwBfQ8ogVz_5wOodzl1l&rid=d02bd44d-bf95-11f0-812d-c4cbe1e8d8dc&ts=demoqa.com&tt=Referral&att=4&abd=1&iv=17&ct=1&gdprApplies=0&muid=pablqAe4aJ4n&st=330&mp4=1&h2=nKQAc7TNGzeM3Ypk8vNy1zotcHMnYqNGVwm8XjpUrIS0S7QsOb4TyE5H_wq1CwLYlSsj3wtzulVhXLqKr5mkBw**
+                  - img [ref=f4e20]
+    - contentinfo [ref=e310]:
+      - generic [ref=e311]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+```

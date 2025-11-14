@@ -7,4 +7,5 @@ test('Add record', async ({ page }) => {
   await webtablePage.navigate_to_webtable();
   await webtablePage.add_user('test', 'test', 'test@gmail.com', '30', '300000', 'it');
   await webtablePage.search_user('test');
+  await await expect(page.getByRole('gridcell', { name: 'test', exact: true }).first()).toBeVisible();
 });
