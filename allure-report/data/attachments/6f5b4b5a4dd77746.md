@@ -1,0 +1,114 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - navigation [ref=e3]:
+      - link "About" [ref=e4] [cursor=pointer]:
+        - /url: https://about.google/?fg=1&utm_source=google-IN&utm_medium=referral&utm_campaign=hp-header
+      - link "Store" [ref=e5] [cursor=pointer]:
+        - /url: https://store.google.com/IN?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-IN
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - link "Gmail" [ref=e10] [cursor=pointer]:
+            - /url: https://mail.google.com/mail/&ogbl
+          - link "Search for Images" [ref=e12] [cursor=pointer]:
+            - /url: https://www.google.com/imghp?hl=en&ogbl
+            - text: Images
+        - button "Google apps" [ref=e15] [cursor=pointer]:
+          - img [ref=e16]
+        - link "Sign in" [ref=e20] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/%3Fgws_rd%3Dssl&ec=futura_exp_og_so_72776762_e
+    - img "Google" [ref=e23]
+    - search [ref=e31]:
+      - generic [ref=e33]:
+        - generic [ref=e35]:
+          - img [ref=e39]
+          - combobox "Search" [expanded] [active] [ref=e42]:
+            - text: step by step automation
+            - generic [ref=e43]:
+              - text: Trending searches
+              - listbox [ref=e44]:
+                - option "ikk kudi box office collection worldwide" [ref=e48]:
+                  - generic [ref=e49]: ikk kudi box office collection worldwide
+                - option "starbucks bearista cups" [ref=e53]:
+                  - generic [ref=e54]: starbucks bearista cups
+                - option "hong kong super sixes pak vs kuwait" [ref=e58]:
+                  - generic [ref=e59]: hong kong super sixes pak vs kuwait
+                - option "hong kong sixes winners list" [ref=e63]:
+                  - generic [ref=e64]: hong kong sixes winners list
+                - option "dude movie ott release date" [ref=e68]:
+                  - generic [ref=e69]: dude movie ott release date
+                - option "zubeen garg roi roi binale" [ref=e73]:
+                  - generic [ref=e74]: zubeen garg roi roi binale
+                  - generic [ref=e75]: Roi Roi Binale — Film
+                - option "bihar elections" [ref=e79]:
+                  - generic [ref=e80]: bihar elections
+                - option "correction window ugc net" [ref=e84]:
+                  - generic [ref=e85]: correction window ugc net
+                - option "grand theft auto gta 6" [ref=e89]:
+                  - generic [ref=e90]: grand theft auto gta 6
+                  - generic [ref=e91]: Grand Theft Auto VI — Online game
+                - option "south africa india cricket match" [ref=e95]:
+                  - generic [ref=e96]: south africa india cricket match
+          - generic [ref=e97]:
+            - button "Clear" [ref=e99] [cursor=pointer]:
+              - img [ref=e101]
+            - generic [ref=e104]:
+              - button "Search by voice" [ref=e105] [cursor=pointer]:
+                - img [ref=e106]
+              - button "Search by image" [ref=e108] [cursor=pointer]:
+                - img [ref=e109]
+            - link "AI Mode" [ref=e111] [cursor=pointer]:
+              - generic [ref=e113]:
+                - img [ref=e115]
+                - generic [ref=e122]: AI Mode
+        - generic [ref=e123]:
+          - generic [ref=e127]:
+            - button "Google Search" [ref=e128] [cursor=pointer]
+            - button "I'm Feeling Lucky" [ref=e129] [cursor=pointer]
+          - button "Report inappropriate predictions" [ref=e130] [cursor=pointer]:
+            - generic [ref=e131]: Report inappropriate predictions
+        - generic [ref=e133]:
+          - button "Google Search" [ref=e134] [cursor=pointer]
+          - button "I'm Feeling Lucky" [ref=e135] [cursor=pointer]
+    - generic [ref=e138]:
+      - text: "Google offered in:"
+      - link "हिन्दी" [ref=e139] [cursor=pointer]:
+        - /url: https://www.google.com/setprefs?sig=0_YZLDqrLAyOouddXSj-wgo7lsIeE%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwi-_smm0OeQAxUIe2wGHdCgFLIQ2ZgBCBg
+      - link "বাংলা" [ref=e140] [cursor=pointer]:
+        - /url: https://www.google.com/setprefs?sig=0_YZLDqrLAyOouddXSj-wgo7lsIeE%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwi-_smm0OeQAxUIe2wGHdCgFLIQ2ZgBCBk
+      - link "తెలుగు" [ref=e141] [cursor=pointer]:
+        - /url: https://www.google.com/setprefs?sig=0_YZLDqrLAyOouddXSj-wgo7lsIeE%3D&hl=te&source=homepage&sa=X&ved=0ahUKEwi-_smm0OeQAxUIe2wGHdCgFLIQ2ZgBCBo
+      - link "मराठी" [ref=e142] [cursor=pointer]:
+        - /url: https://www.google.com/setprefs?sig=0_YZLDqrLAyOouddXSj-wgo7lsIeE%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwi-_smm0OeQAxUIe2wGHdCgFLIQ2ZgBCBs
+      - link "தமிழ்" [ref=e143] [cursor=pointer]:
+        - /url: https://www.google.com/setprefs?sig=0_YZLDqrLAyOouddXSj-wgo7lsIeE%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwi-_smm0OeQAxUIe2wGHdCgFLIQ2ZgBCBw
+      - link "ગુજરાતી" [ref=e144] [cursor=pointer]:
+        - /url: https://www.google.com/setprefs?sig=0_YZLDqrLAyOouddXSj-wgo7lsIeE%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwi-_smm0OeQAxUIe2wGHdCgFLIQ2ZgBCB0
+      - link "ಕನ್ನಡ" [ref=e145] [cursor=pointer]:
+        - /url: https://www.google.com/setprefs?sig=0_YZLDqrLAyOouddXSj-wgo7lsIeE%3D&hl=kn&source=homepage&sa=X&ved=0ahUKEwi-_smm0OeQAxUIe2wGHdCgFLIQ2ZgBCB4
+      - link "മലയാളം" [ref=e146] [cursor=pointer]:
+        - /url: https://www.google.com/setprefs?sig=0_YZLDqrLAyOouddXSj-wgo7lsIeE%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwi-_smm0OeQAxUIe2wGHdCgFLIQ2ZgBCB8
+      - link "ਪੰਜਾਬੀ" [ref=e147] [cursor=pointer]:
+        - /url: https://www.google.com/setprefs?sig=0_YZLDqrLAyOouddXSj-wgo7lsIeE%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwi-_smm0OeQAxUIe2wGHdCgFLIQ2ZgBCCA
+    - contentinfo [ref=e149]:
+      - generic [ref=e150]: India
+      - generic [ref=e151]:
+        - generic [ref=e152]:
+          - link "Advertising" [ref=e153] [cursor=pointer]:
+            - /url: https://www.google.com/intl/en_in/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1
+          - link "Business" [ref=e154] [cursor=pointer]:
+            - /url: https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+          - link "How Search works" [ref=e155] [cursor=pointer]:
+            - /url: https://google.com/search/howsearchworks/?fg=1
+        - generic [ref=e156]:
+          - link "Privacy" [ref=e157] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-IN&fg=1
+          - link "Terms" [ref=e158] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-IN&fg=1
+          - button "Settings" [ref=e162] [cursor=pointer]:
+            - generic [ref=e163]: Settings
+  - generic:
+    - dialog "Choose Chrome, the browser built by Google"
+```

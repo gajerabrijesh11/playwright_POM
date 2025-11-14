@@ -1,0 +1,2 @@
+Logged in successfully
+Logout link is visible
